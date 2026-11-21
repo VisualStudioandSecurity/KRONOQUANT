@@ -1,0 +1,6 @@
+{
+  "name": "KronoQuant",
+  "description": "Plataforma institucional de análise de criptomoedas com gráficos em tempo real, previsão por IA, backtesting histórico, automação de ordens, simulador sem risco e segurança 2FA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
